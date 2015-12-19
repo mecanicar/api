@@ -21,7 +21,6 @@ group :test, :development do
   gem 'codeclimate-test-reporter', require: nil
 end
 
-
 group :production do
   gem 'rails_12factor'
 end
