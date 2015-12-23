@@ -1,6 +1,6 @@
 box: ruby
 services:
-  - postgresql
+  - postgres
 build:
   steps:
     - bundle-install
