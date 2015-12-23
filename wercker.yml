@@ -1,4 +1,5 @@
-box: ruby
+ruby: 2.2.3
+box: phusion/passenger-ruby22
 services:
   - postgres
 build:
