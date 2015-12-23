@@ -5,6 +5,7 @@ ruby '2.2.3'
 gem 'rails', '4.2.5'
 gem 'rails-api'
 
+gem 'acl9'
 gem 'pg'
 gem 'responders'
 gem 'passenger'
